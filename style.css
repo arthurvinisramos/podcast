@@ -1,0 +1,36 @@
+#podcast {
+    text-overflow: ellipsis;
+    background-color: #00fbea;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    color: black;
+    font-family: cursive;
+}
+#regras {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    text-align: left;
+}
+#regras{
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    text-align: left;   
+    list-style-type: square;
+    color: #333;
+    line-height: 1.6;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+}
+
+    body {
+    background-image: url(Neon-podcast-logo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
